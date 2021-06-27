@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GoldBankLite.Common\GoldBankLite.Common.csproj" />
+    <ProjectReference Include="..\GoldBankLite.Data\GoldBankLite.Data.csproj" />
+  </ItemGroup>
+
+</Project>
